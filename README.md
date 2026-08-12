@@ -21,7 +21,7 @@
 Puedes descargar las versiones precompiladas listas para instalar en:
 
 * 📱 **Android (.apk):** [Descargar VoltNOM para Android (.apk)](https://github.com/oscargtzv31/VoltNOM-App/releases/download/v1.0.0-beta/voltNOM-Android-Executable.apk) *(Compatible con Android 8.0 o superior)*
-* 💻 **Windows (.exe):** [Descargar VoltNOM para Windows (.exe)](https://github.com/oscargtzv31/VoltNOM-App/releases/download/v1.0.0-beta/voltNOM-Windows-Executable.zip) *(Archivo portable .zip sin necesidad de instalación)*
+* 💻 **Windows (.exe):** [Descargar VoltNOM para Windows (.exe)](https://github.com/oscargtzv31/VoltNOM-App/releases/download/v1.0.0-beta/voltNOM-Windows-Executable.zip) *(Archivo portable sin necesidad de instalación)*
 
 ---
 
